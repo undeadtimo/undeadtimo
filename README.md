@@ -27,7 +27,7 @@
  * I felt that : It's hard to make web page without knowledge of css and html. so I wanted to learn css and html for beautiful web page.
 
 
-`202?.??` : Counselor Chat-Bot Project
+`202?.??` : Counselor Chat-Bot Project :heart_hands:
 
 *Counseling Techniques:
   1) Rapport Formation<br/>
