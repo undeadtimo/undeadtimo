@@ -31,7 +31,6 @@
 
 *Counseling Techniques:
   1) Rapport Formation
-  
     - Counselor Chat-Bot introduces itself to establish comfortable relationship
   2) MMPI(Minnesota Multiphasic Personality Inventory) and Rorschach Inkblot Test
     - It supports users in understanding themselves better and provides conversation topic to foster rapport
