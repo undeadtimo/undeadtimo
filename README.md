@@ -27,7 +27,7 @@
  * I felt that : It's hard to make web page without knowledge of css and html. so I wanted to learn css and html for beautiful web page.
 
 
-
+<br/>
 `202?.??` : Counselor Chat-Bot Project
 
 *Counseling Techniques:
@@ -51,12 +51,12 @@
   - To help individuals experiencing pain from depression, anxiety etc. and empower them to seek help psychiatry, workplace support, social communication groups.
 
 
-
+<br/>
 `202?.??` : CRUD Posting Clone Coding<br/>
   - To Improve ability to use DBMS
 
 
-
+<br/>
 `202?.??` : Sharing Feeling Platform<br/>
 
 *purpose : By sharing daily tasks and emotions, exchanging advice and support, this service motivates users to stay motivated and continue their work.
