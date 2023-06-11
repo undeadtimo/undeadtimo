@@ -24,10 +24,9 @@
 <h3 align="left">Project:</h3>
 
 `2023.1` : Clone Coding for Web Page
- * I felt that : It's hard to make web page without knowledge of css and html. so I wanted to learn css and html for beautiful web page.
+ * I felt that : It's hard to make web page without knowledge of css and html. so I wanted to learn css and html for beautiful web page.<br/>
 
 
-<br/>
 `202?.??` : Counselor Chat-Bot Project
 
 *Counseling Techniques:
