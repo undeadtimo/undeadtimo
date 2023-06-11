@@ -31,21 +31,21 @@
 
 *Counseling Techniques:
   1) Rapport Formation<br/>
-    - Counselor Chat-Bot introduces itself to establish comfortable relationship
-  2) MMPI(Minnesota Multiphasic Personality Inventory) and Rorschach Inkblot Test
-    - It supports users in understanding themselves better and provides conversation topic to foster rapport
-  3) Socratic Questioning
-    - Instead of presenting solution directly, it induces user to think deeply about their problem. As a result, users are more likely to find a essential solution.
+    - Counselor Chat-Bot introduces itself to establish comfortable relationship<br/>
+  2) MMPI(Minnesota Multiphasic Personality Inventory) and Rorschach Inkblot Test<br/>
+    - It supports users in understanding themselves better and provides conversation topic to foster rapport<br/>
+  3) Socratic Questioning<br/>
+    - Instead of presenting solution directly, it induces user to think deeply about their problem. As a result, users are more likely to find a essential solution.<br/>
 
 *Additional Function
-  1) Response to Silence
-    - Detecting user's screen to identify signs of anxiety-induced silence. the Counselor Chat-Bot encourages user to share their worries. 
-  2) Nonverbal Expression
-    - Using interjections, ellipsis, emoticons, etc. the Counselor Chat-Bot conveys the sense of actively listening to users.
+  1) Response to Silence<br/>
+    - Detecting user's screen to identify signs of anxiety-induced silence. the Counselor Chat-Bot encourages user to share their worries.<br/>
+  2) Nonverbal Expression<br/>
+    - Using interjections, ellipsis, emoticons, etc. the Counselor Chat-Bot conveys the sense of actively listening to users.<br/>
 
-*Who Is The Target
+*Who Is The Target<br/>
   - Individuals with limited social connections, seeking someone to share their private problems, and looking for firend to console them.
   
-*Purpose
+*Purpose<br/>
   - To help individuals experiencing pain from depression, anxiety etc. and empower them to seek help psychiatry, workplace support, social communication groups.
 
