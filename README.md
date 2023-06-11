@@ -49,3 +49,21 @@
 *Purpose<br/>
   - To help individuals experiencing pain from depression, anxiety etc. and empower them to seek help psychiatry, workplace support, social communication groups.
 
+
+`202?.??` : CRUD Posting Clone Coding<br/>
+  - To Improve ability to use DBMS
+
+
+`202?.??` : Sharing Feeling Platform<br/>
+
+*purpose : By sharing daily tasks and emotions, exchanging advice and support, this service motivates users to stay motivated and continue their work.
+
+
+<h3 align="left">Study:</h3>
+
+*Python<br/>
+  - Algorithm problem solving
+  - It is fun to know about many algorithm skill.
+  - problem solving takes lot of time, but It gives me achievement.
+
+
