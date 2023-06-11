@@ -50,12 +50,12 @@
   - To help individuals experiencing pain from depression, anxiety etc. and empower them to seek help psychiatry, workplace support, social communication groups.
 
 
-<br/>
+
 `202?.??` : CRUD Posting Clone Coding<br/>
   - To Improve ability to use DBMS
 
 
-<br/>
+
 `202?.??` : Sharing Feeling Platform<br/>
 
 *purpose : By sharing daily tasks and emotions, exchanging advice and support, this service motivates users to stay motivated and continue their work.
