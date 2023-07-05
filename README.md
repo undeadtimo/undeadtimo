@@ -44,7 +44,7 @@
     - Using interjections, ellipsis, emoticons, etc. the Counselor Chat-Bot conveys the sense of actively listening to users.<br/>
 
 *Who Is The Target<br/>
-  - Individuals with limited social connections, seeking someone to share their private problems, and looking for firend to console them.
+  - Individuals with limited social connections, seeking someone to share their private problems, and looking for friend to console them.
   
 *Purpose<br/>
   - To help individuals experiencing pain from depression, anxiety etc. and empower them to seek help psychiatry, workplace support, social communication groups.
