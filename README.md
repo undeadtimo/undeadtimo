@@ -4,7 +4,7 @@
 
 * Age : 30(1995.11.21) 😂
 * Hometown : Jeju island 🌲
-* University : Catholic university, psychology major 🏫
+* Major : Psychology 🏫
 * Hoby : 
     * Climbing 🌄 
     * Running 🏃
