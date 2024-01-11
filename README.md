@@ -5,7 +5,7 @@
 * Age : 30(1995.11.21) 😂
 * Hometown : Jeju island 🌲
 * University : Catholic university, psychology major 🏫
-* Hoby : climbing 🌄
+* Hoby : climbing 🌄   running 🏃
 * Dream : 저는 사람들의 마음을 치유해줄 수 있는 서비스들을 제 아이디어로 구현해서 배포하는 것이 꿈입니다!
 
 
