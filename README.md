@@ -5,8 +5,15 @@
 * Age : 30(1995.11.21) 😂
 * Hometown : Jeju island 🌲
 * University : Catholic university, psychology major 🏫
-* Hoby : climbing 🌄   running 🏃
+* Hoby : 
+    * Climbing 🌄 
+    * Running 🏃
+    * Drum 🥁
+* Favorite music : rap, rock
 * Dream : 저는 사람들의 마음을 치유해줄 수 있는 서비스들을 제 아이디어로 구현해서 배포하는 것이 꿈입니다!
+* 학교에서 배운 것 중 기억에 남는 것. ✏️
+    * Naomi Eisenberger 의 사회적 소외 실험 😰
+    * Nathan DeWall 의 진통제 실험 💊
 
 
 
